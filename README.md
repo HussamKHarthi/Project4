@@ -32,6 +32,7 @@ thorugh looking at the graph shown in the article, we could see that SO was peak
 
 
 Here's the link for the article in Medium highlighting my findings:
+
 https://medium.com/@hos.alharthi/eager-to-learn-programming-here-are-the-most-common-languages-between-stack-overflow-members-72ff37486abb
 
 This Repo has three files:
